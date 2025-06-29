@@ -1,0 +1,14 @@
+F:\totaly\c# pr\oop_concept\oop_concept\bin\Debug\net8.0\oop_concept.exe
+F:\totaly\c# pr\oop_concept\oop_concept\bin\Debug\net8.0\oop_concept.deps.json
+F:\totaly\c# pr\oop_concept\oop_concept\bin\Debug\net8.0\oop_concept.runtimeconfig.json
+F:\totaly\c# pr\oop_concept\oop_concept\bin\Debug\net8.0\oop_concept.dll
+F:\totaly\c# pr\oop_concept\oop_concept\bin\Debug\net8.0\oop_concept.pdb
+F:\totaly\c# pr\oop_concept\oop_concept\obj\Debug\net8.0\oop_concept.GeneratedMSBuildEditorConfig.editorconfig
+F:\totaly\c# pr\oop_concept\oop_concept\obj\Debug\net8.0\oop_concept.AssemblyInfoInputs.cache
+F:\totaly\c# pr\oop_concept\oop_concept\obj\Debug\net8.0\oop_concept.AssemblyInfo.cs
+F:\totaly\c# pr\oop_concept\oop_concept\obj\Debug\net8.0\oop_concept.csproj.CoreCompileInputs.cache
+F:\totaly\c# pr\oop_concept\oop_concept\obj\Debug\net8.0\oop_concept.dll
+F:\totaly\c# pr\oop_concept\oop_concept\obj\Debug\net8.0\refint\oop_concept.dll
+F:\totaly\c# pr\oop_concept\oop_concept\obj\Debug\net8.0\oop_concept.pdb
+F:\totaly\c# pr\oop_concept\oop_concept\obj\Debug\net8.0\oop_concept.genruntimeconfig.cache
+F:\totaly\c# pr\oop_concept\oop_concept\obj\Debug\net8.0\ref\oop_concept.dll
